@@ -1,1 +1,3 @@
 # codewars
+
+Codewars Kata solutions
